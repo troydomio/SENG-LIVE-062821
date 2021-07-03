@@ -30,7 +30,7 @@ Functions that are passed to other functions as arguments
 ## Context
  - global: Code that's not inside any functions.  
     - Code that is global can not access code inside of functions 
- - function: Code that is inside a function. 
+ - local/functional: Code that is inside a function. 
     - A function can have access to the code inside of it and the code in the global context
  
 ## Scope 
